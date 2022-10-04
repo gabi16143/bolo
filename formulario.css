@@ -1,0 +1,17 @@
+
+
+form label, form p {
+  display: block; 
+  font-size: 20px
+   margin: 0 0 20px;
+    
+    }
+
+form input {
+	display: block;
+	margin: 0 0 20px;
+	padding: 10px 25px;
+}
+h1{
+	color: #FF0000;
+}
